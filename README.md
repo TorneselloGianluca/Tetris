@@ -2,7 +2,7 @@
 
 A classic **Tetris** implementation developed in **C** for the **LPC1768** microcontroller. This project was designed to enhance embedded development skills and acquire full confidence in the usage of the **KEIL IDE** and the **LANDTIGER Board**.
 
-![LPC1768](assets/tetris1.jpg)
+![LPC1768](ProgettoTetris/assets/tetris1.jpg)
 
 ## 📝 Project Overview
 This project brings the iconic Tetris gameplay to an embedded system environment. It manages real-time game logic, hardware interrupts, and graphical rendering on the LandTiger's integrated LCD.
