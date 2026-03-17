@@ -31,5 +31,10 @@ This project brings the iconic Tetris gameplay to an embedded system environment
 4.  Connect your **LandTiger Board** via USB/J-Link or use the emualator. 
 5.  Flash the code (F8) and play!
 
+There is also a video mp4 with a demo of the application in the folder.
+
+Contact me for more info 
+gianluca.tornesello2001@gmail.com
+
 ---
 *Developed as part of an Embedded Systems learning path.*
